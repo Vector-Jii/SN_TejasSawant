@@ -3,9 +3,6 @@
 
 A comprehensive guide to building a secure, self-hosted cloud server for personal and family use. This system provides role-based access control, guest portals, and is securely exposed to the internet for global accessibility.
 
-![Network Architecture](https://via.placeholder.com/800x400.png?text=Network+Diagram+Placeholder) 
-*Note: Replace with your actual network diagram*
-
 ## 📋 Project Overview
 
 This project implements a secure home-based cloud server that provides role-based access to personal and family data. Different users (yourself, parents, siblings, visiting relatives) get customized levels of access through an internet-exposed system with secure remote access.
